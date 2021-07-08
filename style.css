@@ -30,6 +30,9 @@ body {
     z-index: 1000;
 }
 
+.header.red {
+    background-color: red;
+}
 
 /* Nav */
 .nav {
