@@ -53,4 +53,3 @@ for(let nav_item of nav_links){
         console.log(nav_item.text);
     });
 };
-
